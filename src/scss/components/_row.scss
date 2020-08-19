@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+}
+
+.row__cell {
+  padding: 5px 20px;
+  width: 250px;
+  border: 1px solid black;
+  border-left: 0;
+  border-top: 0;
+
+  &:first-child{
+    border-left: 1px solid black;
+  }
+}

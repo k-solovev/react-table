@@ -1,0 +1,27 @@
+@import 'libs/normalize';
+@import 'components/loader';
+@import 'components/table';
+@import 'components/header-row';
+@import 'components/row';
+@import 'components/detail-info';
+@import 'components/pagination';
+
+.app {
+  background-color: rgb(222, 222, 222);
+  padding: 50px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
