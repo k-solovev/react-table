@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React App Info
 
-displaying a table with fetching data, sorting, pagination and filtering(in progress...)
+Displaying a table with fetching data, sorting, pagination and filtering(in progress...)
 
 ## Available Scripts
 
